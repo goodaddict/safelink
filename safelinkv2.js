@@ -22,7 +22,7 @@ if(a_to_vh==false)
 var x=Math.floor((Math.random()*4)+ 1);
 var xxx=null;
 if(x=="1"){xxx="why-wont-some-videos-play-in-windows-81.html"}
-if(x=="2"){xxx="1intel-skylake-prepare-for-faster-pcs.html"}
+if(x=="2"){xxx="intel-skylake-prepare-for-faster-pcs.html"}
 if(x=="3"){xxx="watch-out-for-software-with-fake"}
 if(x=="4"){xxx="microsoft-may-have-sneaked-windows-10.html"}a_to_ve[i].href="http://linkdownnontontvseries.blogspot.com/2015/09/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
